@@ -4,10 +4,10 @@ I started this project in order to better understand how the ruby programming la
 Goals to implement
 
 Game
- - Dice rolls
-    Implemented, needs cleaning and automation through rules.rb
- - Crowd Reactions
+- Dice rolls -- Implemented, needs cleaning and automation through rules.rb
+ 
+- Crowd Reactions
 
- - Combat Mechanics
- - Map
- --Procedural generation
+- Combat Mechanics
+ 
+- Map with procedural generation
